@@ -1,4 +1,4 @@
-# Aula básica de inicializar um projeto com docker e postgresql
+# Aula básica de inicializar um projeto DJANGO com DOCKER e POSTGRESQL
 
 1 - Primeiros passo é criar a pasta do projeto
 2 - Instalar o ambiente virtual e inicializar
